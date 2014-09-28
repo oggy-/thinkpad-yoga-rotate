@@ -1,7 +1,7 @@
 # Maintainer: oggy <ognjen.maric@gmail.com>
 
 pkgname=thinkpad-yoga-rotate
-pkgver=0.2
+pkgver=0.3
 pkgrel=1
 pkgdesc="A small Thinkpad Yoga utility to automatically rotate the screen in tablet mode"
 url="https://github.com/oggy-/thinkpad-yoga-rotate"
